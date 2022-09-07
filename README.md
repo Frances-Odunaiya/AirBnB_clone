@@ -327,17 +327,17 @@ For the <strong>update</strong> command, it can be passed like this ```<class na
 
 ## Authors
 <details>
-    <summary>Kayode Ogunrinde</summary>
+    <summary>Frances Odunaiya</summary>
     <ul>
-    <li><a href="https://github.com/kayodegigz">Github</a></li>
-    <li><a href="mailto:kayogunrinde@gmail.com">e-mail</a></li>
+    <li><a href="https://github.com/Rola01">Github</a></li>
+    <li><a href="mailto:odunaiyafrances@gmail.com">e-mail</a></li>
     </ul>
 </details>
 <details>
-    <summary>Samuel Adebayo</summary>
+    <summary>Oluwaseunnla Arokoyo</summary>
     <ul>
-    <li><a href="https://github.com/Adebayo-S">Github</a></li>
-    <li><a href="mailto:eladebayoor@gmail.com">e-mail</a></li>
+    <li><a href="https://github.com/oluwaseunnla">Github</a></li>
+    <li><a href="mailto:seunnlaarokoyo@gmail.com">e-mail</a></li>
     </ul>
 </details>
 
